@@ -1,0 +1,5 @@
+EV_XX(ButtonEvent, button)
+EV_XX(AudioEvent, audio)
+EV_XX(GunEvent, gun)
+EV_XX(IRSendEvent, ir_send)
+EV_XX(RFReceiveEvent, rf_receive)
